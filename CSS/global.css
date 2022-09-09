@@ -1,0 +1,17 @@
+/* Day10 mfw css */
+.year {
+    position: absolute;
+    top: -75px;
+    left: 0;
+    z-index: -99;
+}
+
+.year-styles {
+    font-size: 150px;
+    opacity: 0.1;
+}
+
+.font-styles {
+    font-weight: lighter;
+}
+/* ========================================================= */
